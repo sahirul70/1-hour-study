@@ -1,0 +1,53 @@
+.heading {
+    font-size: 40px;
+    line-height: 60px;
+    font-weight: 500;
+    color: #011e56;
+  }
+header nav .singup {
+    padding: 10px 20px;
+    min-width:200px;
+ }
+ header nav a.dropdown {
+    min-width: 150px;
+}
+section .head h2, section .head .h2 {
+  font-size: 45px;
+  line-height: 65px;
+  font-weight: 500;
+}
+section .head h4, section .head .h4 {
+  font-size: 25px;
+}
+section .head p{
+  font-family: 1.20rem;
+  line-height: 30px;
+}
+
+#steps .steps-card .icon {
+  margin: 0 auto;
+}
+#steps .steps-card h4 {
+  text-align: center;
+}
+#steps .steps-card p{
+  text-align: center;
+}
+#categories .categories-card {
+  display: block;
+  padding: 15px;
+}
+.categories-card .icon {
+  margin: 0 auto;
+}
+#categories .categories-card h5{
+  padding: 10px;
+  text-align: center;
+}
+#categories .categories-card p{
+  text-align: center;
+  line-height: 25px;
+}
+#steps .steps-card h4 {
+  text-align: center;
+}
